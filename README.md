@@ -9,4 +9,6 @@ Xenium ST pre-processing, AnnData creation, subtyping workflow, and scripts to c
 
 ---
 
-The original Xenium AnnData used for this analysis has been deposited on Mendeley Data (link). 
+The original Xenium AnnData used for this analysis has been deposited on [Mendeley Data](https://data.mendeley.com/datasets/kn6tf3nmgm/1). 
+
+Mateus-Tique, Jaime; Singh, Bhavya (2025), “Mateus-Tique et al, Cancer Cell, 2026 - Armored macrophage-targeted CAR T cells reset and reprogram the tumor microenvironment and control metastatic cancer growth”, Mendeley Data, V1, doi: 10.17632/kn6tf3nmgm.1
